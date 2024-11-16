@@ -31,7 +31,7 @@ import {
           />
           <div className="font-bold text-3xl flex">
             <span className="text-gray-200">
-              MatchMe
+              Mingle
             </span>
           </div>
         </NavbarBrand>
